@@ -1,0 +1,9 @@
+.rajabox {
+    border: 10px solid;
+    width: 300px;
+    text-align: 'center';
+    font-size: 45px;
+    line-height: 75px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
